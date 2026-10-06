@@ -11,7 +11,7 @@
 
 ---
 
-###  Sobre mim
+### 🧑‍💻 Sobre mim
 
 - 🐍 Desenvolvedor **Python** com mais de **5 anos** de experiência em sistemas web, com foco em **back-end**
 - 📦 Quase 4 anos construindo módulos de um **sistema de gestão de estoque** usado por redes de varejo, do planejamento à produção
